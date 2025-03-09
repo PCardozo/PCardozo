@@ -2,7 +2,7 @@
 
 🤓 QA Tester - QC Analyst (1.5 Years of Experience), looking to grow into a Test Automation position. Worked on the Madden NFL 25 Project. 
 
-🛠 Experienced in Manual Testing, Bug reporting, Test Design, Test Execution, Context Driven Testing, Session Based Testing, Exploratory Testing, Regression Testing, Integration Testing, System Testing, Agile Methodologies (Scrum), Jira, Zephyr and Office/Gsuite.
+🛠 Experienced in Manual Testing, Bug reporting, Test Design, Test Execution, Context Driven Testing, Session Based Testing, Exploratory Testing, Regression Testing, Integration Testing, System Testing, Game Testing, Agile Methodologies (Scrum), Jira, Zephyr and Office/Gsuite.
 
 🧠 Knowledgeable in Javascript, Python, HTML, CSS, SQL, Selenium, Pytest, Postman, API REST, OOP. 
 
