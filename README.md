@@ -1,12 +1,12 @@
-Hello World! 👋
+👋 Hello World! I'm Pablo, and welcome to my Profile.
 
-I'm Pablo, and welcome to my github Profile.
+🤓 QA Tester - QC Analyst (1.5 Years of Experience), looking to grow into a Test Automation position. Worked on the Madden NFL 25 Project. 
 
-🤓 Currently working at Globant. Been part of the Madden 25 Project. Looking for growth in my career, perhaps working in a new Team, for a new Company.
+🛠 Experienced in Manual Testing, Bug reporting, Test Design, Text Execution, Session Based Testing, Exploratory Testing, Agile Methodologies (Scrum), Jira, Zephyr and Office/Gsuite.
 
-🛠 Knowledgeable in Postman, Jira, Javascript, Web Development, Currently on a Manual QA Testing position (1+ Years of Experience), wanting to go for an Automation position.
+🧠 Knowledgeable in Javascript, Python, HTML, CSS, SQL, Selenium, Pytest, Postman, API REST, OOP. 
 
-🕹 I've studied Game Design and development, plus many web-related courses. Self-taught english speaker, fluent at the language. Used to work as a Data Entry Clerk for a Company that sold Marketing Solutions for US universities and also Transferred Student Athletes between said universities (CAMPSA/ MatchUP Global, 2 Years). Also worked as Tech Support for the biggest ISP in Argentina (Personal Flow, 9 Months)  
+📖 Bachelor's Degree in Game Development, plus many Web-related courses. Self-taught English speaker with proven experience in Customer Service using the language: Used to work as a Data Entry Clerk for a Company that sold Marketing Solutions for US universities and also Transferred Student Athletes between them (MatchUP Global - CAMPSA, 2 Years). Also worked as Tech Support for the biggest ISP in Argentina (Grupo Konecta, Personal Flow account, 9 Months)  
 
 Don't hesitate on reaching out, I can be a great addition to your team!
 
